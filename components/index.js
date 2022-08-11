@@ -1,0 +1,6 @@
+export { default as Header } from './Header'
+export { default as CourseCard } from './CourseCard'
+export { default as CourseDetails } from './CourseDetails'
+export { default as CategoryCard } from './CategoryCard'
+export { default as Layout } from './Layout'
+export { default as AuthorCard } from './AuthorCard'
